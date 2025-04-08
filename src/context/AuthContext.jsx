@@ -34,6 +34,8 @@ export const AuthProvider = ({ children }) => {
     } catch (error) {
       console.error(error);
     }
+
+    // TODO> CREAR FUNCIONES DE REGISTRO
   }
 
   return (
