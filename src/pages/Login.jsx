@@ -1,5 +1,6 @@
 import { useForm } from "react-hook-form";
 import { FaUser, FaLock } from "react-icons/fa";
+import "../style/login.css";
 
 import { useAuth } from "../context/AuthContext";
 const Login = () => {
